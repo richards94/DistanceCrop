@@ -106,3 +106,4 @@ class DistanceCrop(RandomResizedCrop):
         view2 = F.resized_crop(img, i2, j2, h2, w2, self.size, self.interpolation)
         
         return view1, view2
+        
