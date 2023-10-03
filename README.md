@@ -1,6 +1,6 @@
 # DistanceCrop
 A PyTorch implementation of paper
->__"Rethinking Image Cropping for Contrastive Learning"__
+__"Rethinking Image Cropping for Contrastive Learning"__
 <!-- >University of Chinese Academy of Sciences, Renmin University of China, Institute of Computing Technology, Chinese Academy of Sciences -->
 
 <div align=center>
